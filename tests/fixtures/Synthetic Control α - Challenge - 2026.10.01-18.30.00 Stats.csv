@@ -1,0 +1,19 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:30:01.000,synthetic,TestWeapon,1.0s,2,1,0.5,1,2,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible
+TestWeapon,100,80,80,100
+
+Kills:,10
+Deaths:,0
+Fight Time:,60
+Duration:,60
+Avg TTK:,1.5
+Damage Done:,80
+Damage Taken:,0
+Score:,950
+Game Version:,2.0.1.0
+
+Scenario Name:,Synthetic Control α
+Challenge Start Time:,2026.10.01-18.30.00
+Screen Resolution:,1920x1080

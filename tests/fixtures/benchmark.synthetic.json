@@ -1,0 +1,10 @@
+{
+ "name":"Synthetic test benchmark — NOT Viscose", "version":"test-1", "difficulty":"Synthetic", "source":null,
+ "ranks":["Test Bronze","Test Silver","Test Gold"],
+ "scenarios":[
+  {"name":"Synthetic Control α","aliases":["Synthetic Control alias"],"category":"Control Tracking","subcategory":"Smoothness","tags":["Smoothness"],"thresholds":{"Test Bronze":500,"Test Silver":1000,"Test Gold":1500}},
+  {"name":"Synthetic Reactive","aliases":[],"category":"Reactive Tracking","subcategory":"Reading","tags":["Reading"],"thresholds":{"Test Bronze":50,"Test Silver":100,"Test Gold":150}},
+  {"name":"Synthetic Flick","aliases":[],"category":"Flick Tech","subcategory":"Micro","tags":["Micro"],"thresholds":{"Test Bronze":100,"Test Silver":200,"Test Gold":300}},
+  {"name":"Synthetic, click","aliases":[],"category":"Click Timing","subcategory":"Precision","tags":["Precision"],"thresholds":{"Test Bronze":500,"Test Silver":1000,"Test Gold":1500}}
+ ]
+}

@@ -1,0 +1,721 @@
+{
+  "name": "Viscose Benchmarks S2",
+  "version": "S2",
+  "difficulty": "Easier",
+  "source": "https://evxl.app/",
+  "ranks": [
+    "Lemming",
+    "Hare",
+    "Ermine",
+    "Puffin",
+    "Penguin",
+    "Fox",
+    "Mammoth",
+    "Orca",
+    "Seal"
+  ],
+  "scenarios": [
+    {
+      "name": "Smoothsphere Viscose Easier",
+      "aliases": [],
+      "category": "Control Tracking",
+      "subcategory": "Arm",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 5500,
+        "Hare": 6500,
+        "Ermine": 8050,
+        "Puffin": 9200,
+        "Penguin": 10200,
+        "Fox": 11400,
+        "Mammoth": 12300,
+        "Orca": 13050,
+        "Seal": 13600
+      }
+    },
+    {
+      "name": "Whisphere Viscose Easier",
+      "aliases": [],
+      "category": "Control Tracking",
+      "subcategory": "Arm",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 6800,
+        "Hare": 9400,
+        "Ermine": 10300,
+        "Puffin": 11100,
+        "Penguin": 12800,
+        "Fox": 14500,
+        "Mammoth": 16200,
+        "Orca": 17500,
+        "Seal": 18500
+      }
+    },
+    {
+      "name": "SmoothBot Perfected Easier",
+      "aliases": [],
+      "category": "Control Tracking",
+      "subcategory": "Arm",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 2000,
+        "Hare": 2500,
+        "Ermine": 3000,
+        "Puffin": 3350,
+        "Penguin": 3650,
+        "Fox": 4100,
+        "Mammoth": 4500,
+        "Orca": 4775,
+        "Seal": 5025
+      }
+    },
+    {
+      "name": "Leapstrafes Control wobin Easier",
+      "aliases": [],
+      "category": "Control Tracking",
+      "subcategory": "Wrist",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 1200,
+        "Hare": 1600,
+        "Ermine": 2025,
+        "Puffin": 2250,
+        "Penguin": 2450,
+        "Fox": 2750,
+        "Mammoth": 3000,
+        "Orca": 3250,
+        "Seal": 3450
+      }
+    },
+    {
+      "name": "Controlsphere SuperbAim Viscose Easier",
+      "aliases": [],
+      "category": "Control Tracking",
+      "subcategory": "Wrist",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 4200,
+        "Hare": 5100,
+        "Ermine": 6200,
+        "Puffin": 7050,
+        "Penguin": 7975,
+        "Fox": 9050,
+        "Mammoth": 10000,
+        "Orca": 10800,
+        "Seal": 11750
+      }
+    },
+    {
+      "name": "VT Controlsphere Viscose Easier",
+      "aliases": [],
+      "category": "Control Tracking",
+      "subcategory": "Wrist",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 1100,
+        "Hare": 1600,
+        "Ermine": 2100,
+        "Puffin": 2450,
+        "Penguin": 2750,
+        "Fox": 3175,
+        "Mammoth": 3500,
+        "Orca": 3800,
+        "Seal": 4100
+      }
+    },
+    {
+      "name": "Air Angelic 4 Voltaic Easy 70%",
+      "aliases": [],
+      "category": "Control Tracking",
+      "subcategory": "Fingertip",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 2600,
+        "Hare": 3050,
+        "Ermine": 3575,
+        "Puffin": 3950,
+        "Penguin": 4175,
+        "Fox": 4475,
+        "Mammoth": 4700,
+        "Orca": 4850,
+        "Seal": 5100
+      }
+    },
+    {
+      "name": "cloverRawControl Viscose Easier 50cm",
+      "aliases": [],
+      "category": "Control Tracking",
+      "subcategory": "Fingertip",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 5000,
+        "Hare": 5850,
+        "Ermine": 6400,
+        "Puffin": 7100,
+        "Penguin": 7800,
+        "Fox": 9200,
+        "Mammoth": 10000,
+        "Orca": 10700,
+        "Seal": 11500
+      }
+    },
+    {
+      "name": "Flower Easier 50cm",
+      "aliases": [],
+      "category": "Control Tracking",
+      "subcategory": "Fingertip",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 1050,
+        "Hare": 1350,
+        "Ermine": 1650,
+        "Puffin": 2000,
+        "Penguin": 2350,
+        "Fox": 2575,
+        "Mammoth": 2875,
+        "Orca": 3200,
+        "Seal": 3475
+      }
+    },
+    {
+      "name": "PGTI Voltaic Easy Smoother",
+      "aliases": [],
+      "category": "Control Tracking",
+      "subcategory": "Blending",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 550,
+        "Hare": 700,
+        "Ermine": 1050,
+        "Puffin": 1200,
+        "Penguin": 1375,
+        "Fox": 1675,
+        "Mammoth": 1950,
+        "Orca": 2250,
+        "Seal": 2500
+      }
+    },
+    {
+      "name": "Air CELESTIAL No UFO Easier",
+      "aliases": [],
+      "category": "Control Tracking",
+      "subcategory": "Blending",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 800,
+        "Hare": 817,
+        "Ermine": 842,
+        "Puffin": 852,
+        "Penguin": 862,
+        "Fox": 873,
+        "Mammoth": 883,
+        "Orca": 889,
+        "Seal": 896
+      }
+    },
+    {
+      "name": "RawControlSphere Easier",
+      "aliases": [],
+      "category": "Control Tracking",
+      "subcategory": "Blending",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 4700,
+        "Hare": 5900,
+        "Ermine": 7400,
+        "Puffin": 8200,
+        "Penguin": 8900,
+        "Fox": 10400,
+        "Mammoth": 11000,
+        "Orca": 12300,
+        "Seal": 13200
+      }
+    },
+    {
+      "name": "Ground Plaza Sparky v3 Easy",
+      "aliases": [],
+      "category": "Reactive Tracking",
+      "subcategory": "Control",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 780,
+        "Hare": 805,
+        "Ermine": 833,
+        "Puffin": 845,
+        "Penguin": 854,
+        "Fox": 866,
+        "Mammoth": 876,
+        "Orca": 884,
+        "Seal": 889
+      }
+    },
+    {
+      "name": "Air Spectral Easy 85%",
+      "aliases": [],
+      "category": "Reactive Tracking",
+      "subcategory": "Control",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 870,
+        "Hare": 895,
+        "Ermine": 907,
+        "Puffin": 913,
+        "Penguin": 917,
+        "Fox": 922,
+        "Mammoth": 926,
+        "Orca": 929,
+        "Seal": 932
+      }
+    },
+    {
+      "name": "VT Aether Bot 1 Easier",
+      "aliases": [],
+      "category": "Reactive Tracking",
+      "subcategory": "Speed",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 1200,
+        "Hare": 1600,
+        "Ermine": 1850,
+        "Puffin": 2100,
+        "Penguin": 2400,
+        "Fox": 2700,
+        "Mammoth": 3000,
+        "Orca": 3250,
+        "Seal": 3475
+      }
+    },
+    {
+      "name": "Plink Palace Easy Less Blinks",
+      "aliases": [],
+      "category": "Reactive Tracking",
+      "subcategory": "Speed",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 1300,
+        "Hare": 1600,
+        "Ermine": 2000,
+        "Puffin": 2175,
+        "Penguin": 2300,
+        "Fox": 2525,
+        "Mammoth": 2775,
+        "Orca": 2925,
+        "Seal": 3100
+      }
+    },
+    {
+      "name": "Air Pure Easier No UFO",
+      "aliases": [],
+      "category": "Reactive Tracking",
+      "subcategory": "Reading",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 875,
+        "Hare": 895,
+        "Ermine": 912,
+        "Puffin": 919,
+        "Penguin": 923,
+        "Fox": 928,
+        "Mammoth": 933,
+        "Orca": 937,
+        "Seal": 940
+      }
+    },
+    {
+      "name": "Air Voltaic Invincible 4 Easier",
+      "aliases": [],
+      "category": "Reactive Tracking",
+      "subcategory": "Reading",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 1750,
+        "Hare": 2350,
+        "Ermine": 2800,
+        "Puffin": 3050,
+        "Penguin": 3200,
+        "Fox": 3500,
+        "Mammoth": 3900,
+        "Orca": 4100,
+        "Seal": 4250
+      }
+    },
+    {
+      "name": "ww5t Voltaic Slightly Larger",
+      "aliases": [],
+      "category": "Flick Tech",
+      "subcategory": "Speed",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 70,
+        "Hare": 80,
+        "Ermine": 92,
+        "Puffin": 97,
+        "Penguin": 101,
+        "Fox": 108,
+        "Mammoth": 113,
+        "Orca": 119,
+        "Seal": 125
+      }
+    },
+    {
+      "name": "voxTargetSwitch 2 Large",
+      "aliases": [],
+      "category": "Flick Tech",
+      "subcategory": "Speed",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 59,
+        "Hare": 68,
+        "Ermine": 78,
+        "Puffin": 84,
+        "Penguin": 92,
+        "Fox": 99,
+        "Mammoth": 106,
+        "Orca": 113,
+        "Seal": 120
+      }
+    },
+    {
+      "name": "aimerz+ Static Switching 6 Bot Slightly Larger",
+      "aliases": [],
+      "category": "Flick Tech",
+      "subcategory": "Speed",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 78,
+        "Hare": 89,
+        "Ermine": 98,
+        "Puffin": 103,
+        "Penguin": 109,
+        "Fox": 115,
+        "Mammoth": 121,
+        "Orca": 126,
+        "Seal": 131
+      }
+    },
+    {
+      "name": "1w6ts reload v2 20% bigger",
+      "aliases": [],
+      "category": "Flick Tech",
+      "subcategory": "Stability",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 64,
+        "Hare": 71,
+        "Ermine": 78,
+        "Puffin": 85,
+        "Penguin": 91,
+        "Fox": 97,
+        "Mammoth": 103,
+        "Orca": 109,
+        "Seal": 115
+      }
+    },
+    {
+      "name": "beanTS Larger",
+      "aliases": [],
+      "category": "Flick Tech",
+      "subcategory": "Stability",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 53,
+        "Hare": 64,
+        "Ermine": 75,
+        "Puffin": 86,
+        "Penguin": 96,
+        "Fox": 106,
+        "Mammoth": 116,
+        "Orca": 126,
+        "Seal": 137
+      }
+    },
+    {
+      "name": "StaticSwitchingVox",
+      "aliases": [],
+      "category": "Flick Tech",
+      "subcategory": "Stability",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 67,
+        "Hare": 76,
+        "Ermine": 86,
+        "Puffin": 91,
+        "Penguin": 96,
+        "Fox": 101,
+        "Mammoth": 108,
+        "Orca": 114,
+        "Seal": 119
+      }
+    },
+    {
+      "name": "1w2ts reload smallflicks larger",
+      "aliases": [],
+      "category": "Flick Tech",
+      "subcategory": "Micro",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 76,
+        "Hare": 85,
+        "Ermine": 93,
+        "Puffin": 100,
+        "Penguin": 106,
+        "Fox": 112,
+        "Mammoth": 118,
+        "Orca": 124,
+        "Seal": 130
+      }
+    },
+    {
+      "name": "eth Pasu Micro Easier",
+      "aliases": [],
+      "category": "Flick Tech",
+      "subcategory": "Micro",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 600,
+        "Hare": 700,
+        "Ermine": 775,
+        "Puffin": 850,
+        "Penguin": 925,
+        "Fox": 1000,
+        "Mammoth": 1075,
+        "Orca": 1150,
+        "Seal": 1225
+      }
+    },
+    {
+      "name": "waldoTS Novice",
+      "aliases": [],
+      "category": "Flick Tech",
+      "subcategory": "Micro",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 51,
+        "Hare": 63,
+        "Ermine": 74,
+        "Puffin": 85,
+        "Penguin": 96,
+        "Fox": 107,
+        "Mammoth": 118,
+        "Orca": 129,
+        "Seal": 140
+      }
+    },
+    {
+      "name": "kinTS Voltaic Easy 85%",
+      "aliases": [],
+      "category": "Flick Tech",
+      "subcategory": "Post-Flick",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 35,
+        "Hare": 38,
+        "Ermine": 44,
+        "Puffin": 49,
+        "Penguin": 54,
+        "Fox": 59,
+        "Mammoth": 63,
+        "Orca": 67,
+        "Seal": 72
+      }
+    },
+    {
+      "name": "domiSwitch Easier",
+      "aliases": [],
+      "category": "Flick Tech",
+      "subcategory": "Post-Flick",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 3000,
+        "Hare": 3600,
+        "Ermine": 4200,
+        "Puffin": 4800,
+        "Penguin": 5400,
+        "Fox": 6000,
+        "Mammoth": 6500,
+        "Orca": 7000,
+        "Seal": 7500
+      }
+    },
+    {
+      "name": "B180T Voltaic Easy Slower",
+      "aliases": [],
+      "category": "Flick Tech",
+      "subcategory": "Post-Flick",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 32,
+        "Hare": 37,
+        "Ermine": 42,
+        "Puffin": 47,
+        "Penguin": 52,
+        "Fox": 57,
+        "Mammoth": 62,
+        "Orca": 67,
+        "Seal": 72
+      }
+    },
+    {
+      "name": "Pasu Voltaic Reload Easier",
+      "aliases": [],
+      "category": "Click Timing",
+      "subcategory": "Reading",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 38,
+        "Hare": 46,
+        "Ermine": 52,
+        "Puffin": 59,
+        "Penguin": 65,
+        "Fox": 72,
+        "Mammoth": 78,
+        "Orca": 84,
+        "Seal": 91
+      }
+    },
+    {
+      "name": "VT Bounceshot Viscose Easier",
+      "aliases": [],
+      "category": "Click Timing",
+      "subcategory": "Reading",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 300,
+        "Hare": 380,
+        "Ermine": 460,
+        "Puffin": 540,
+        "Penguin": 610,
+        "Fox": 690,
+        "Mammoth": 750,
+        "Orca": 810,
+        "Seal": 870
+      }
+    },
+    {
+      "name": "CatClick Easier",
+      "aliases": [],
+      "category": "Click Timing",
+      "subcategory": "Reading",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 27,
+        "Hare": 35,
+        "Ermine": 42,
+        "Puffin": 49,
+        "Penguin": 56,
+        "Fox": 63,
+        "Mammoth": 69,
+        "Orca": 75,
+        "Seal": 80
+      }
+    },
+    {
+      "name": "1w3ts Pasu Perfected Micro Goated Larger 80%",
+      "aliases": [],
+      "category": "Click Timing",
+      "subcategory": "Precision",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 420,
+        "Hare": 530,
+        "Ermine": 640,
+        "Puffin": 750,
+        "Penguin": 860,
+        "Fox": 970,
+        "Mammoth": 1080,
+        "Orca": 1190,
+        "Seal": 1300
+      }
+    },
+    {
+      "name": "Popcorn MV Easier",
+      "aliases": [],
+      "category": "Click Timing",
+      "subcategory": "Precision",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 90,
+        "Hare": 150,
+        "Ermine": 200,
+        "Puffin": 240,
+        "Penguin": 280,
+        "Fox": 320,
+        "Mammoth": 360,
+        "Orca": 390,
+        "Seal": 420
+      }
+    },
+    {
+      "name": "skyClick Goated Easier",
+      "aliases": [],
+      "category": "Click Timing",
+      "subcategory": "Precision",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 60,
+        "Hare": 71,
+        "Ermine": 80,
+        "Puffin": 89,
+        "Penguin": 95,
+        "Fox": 102,
+        "Mammoth": 107,
+        "Orca": 112,
+        "Seal": 117
+      }
+    },
+    {
+      "name": "VoxTS Click Easier",
+      "aliases": [],
+      "category": "Click Timing",
+      "subcategory": "Stability",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 48,
+        "Hare": 57,
+        "Ermine": 64,
+        "Puffin": 72,
+        "Penguin": 79,
+        "Fox": 86,
+        "Mammoth": 93,
+        "Orca": 99,
+        "Seal": 105
+      }
+    },
+    {
+      "name": "VT Floating Heads Viscose Easier",
+      "aliases": [],
+      "category": "Click Timing",
+      "subcategory": "Stability",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 400,
+        "Hare": 500,
+        "Ermine": 580,
+        "Puffin": 645,
+        "Penguin": 700,
+        "Fox": 790,
+        "Mammoth": 870,
+        "Orca": 930,
+        "Seal": 1015
+      }
+    },
+    {
+      "name": "psalmTS Viscose Click Easier",
+      "aliases": [],
+      "category": "Click Timing",
+      "subcategory": "Stability",
+      "tags": [],
+      "thresholds": {
+        "Lemming": 31,
+        "Hare": 39,
+        "Ermine": 45,
+        "Puffin": 51,
+        "Penguin": 57,
+        "Fox": 63,
+        "Mammoth": 69,
+        "Orca": 74,
+        "Seal": 80
+      }
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+import {defineConfig} from '@playwright/test';
+export default defineConfig({testDir:'./tests/ui',workers:1,reporter:'list',outputDir:'test-output/ui',use:{baseURL:'http://127.0.0.1:15420',viewport:{width:1320,height:880},launchOptions:{executablePath:process.env.AIMCOACH_BROWSER??'C:/Program Files/Google/Chrome/Application/chrome.exe'}},webServer:{command:'npm run dev',url:'http://127.0.0.1:15420',reuseExistingServer:true,timeout:30000}});

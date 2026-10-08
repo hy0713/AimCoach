@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.tools/
+src-tauri/target/
+*.sqlite*
+test-output/
+.env*
+data/evxl/
+delivery/
+src-tauri/gen/
+# One-off personal import and profile capture scripts stay on this machine.
+scripts/import-personal.mjs
+scripts/inspect-evxl.mjs
+scripts/export-evxl.mjs
+scripts/validate-evxl-native.mjs
+*.log
+*.pem
+*.key
+*.pfx
